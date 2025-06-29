@@ -1,5 +1,3 @@
-# Query: README.md\n
-# ContextLines: 1
 
 ## 🌟 Bright Cat – A Responsive Multi-Page Website using HTML, CSS, and JavaScript
 
